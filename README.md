@@ -1,4 +1,5 @@
-# Crypto Eye
+# Crypto Eye Project
+
 Simple Crypto Price Tracking Application on desktop.
 
 ## Getting Started with Create React App
