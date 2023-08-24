@@ -1,0 +1,58 @@
+.coin-row {
+  display: flex;
+  align-items: center;
+  margin: 10px 40px 40px;
+  justify-content: left;
+  border-bottom: solid;
+}
+
+.coin {
+  display: flex;
+  align-items: center;
+  .coin-symbol {
+    text-transform: uppercase;
+  }
+}
+.coin img {
+  width: 30px;
+  height: 30px;
+}
+
+.coin h1 {
+  margin-left: 10px;
+  width: 240px;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+.coin p {
+  width: 40px;
+  margin-right: 20px;
+}
+
+.coin-data {
+  display: flex;
+  align-items: center;
+}
+
+p {
+  width: 200px;
+  display: flex;
+  justify-content: start;
+}
+
+.coin-percent {
+  width: 100px;
+}
+
+.coin-marketcap {
+  display: flex;
+  justify-content: end;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
