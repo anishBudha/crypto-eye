@@ -1,6 +1,6 @@
 # Crypto Eye Project
 
-[crypto-eye](crypto-eye.netlify.app) : cryptoeye.netlify.app
+[crypto-eye](https://crypto-eye.netlify.app) : cryptoeye.netlify.app
 
 Simple Crypto Price Tracking Application on desktop.
 
