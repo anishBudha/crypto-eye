@@ -1,5 +1,7 @@
 # Crypto Eye Project
 
+[crypto-eye](cryptoeye-netlify.app) : cryptoeye.netlify.app
+
 Simple Crypto Price Tracking Application on desktop.
 
 ## Getting Started with Create React App
